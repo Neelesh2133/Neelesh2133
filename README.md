@@ -75,6 +75,8 @@ Currently learning
 <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
+- PostgreSQL
+
 ---
 
 ### Cloud & DevOps

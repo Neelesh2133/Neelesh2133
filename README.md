@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Neelesh Krishna</h1>
 
-<h3 align="center">
-AI & Machine Learning Engineer
-</h3>
+<h3 align="center">AI & Machine Learning Engineer</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Real-World+AI+Applications;FastAPI+%7C+Python+%7C+LLMs;Computer+Vision+%7C+NLP;MLOps+%7C+LLMOps+Learner;Always+Learning+Something+New+🚀" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Real-World+AI+Applications;Python+%7C+FastAPI+%7C+Machine+Learning;Computer+Vision+%7C+NLP;Learning+LLMs+%26+MLOps;Always+Learning+New+Things+🚀"/>
+</a>
 
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Neelesh2133">
-<img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </p>
 ---
 

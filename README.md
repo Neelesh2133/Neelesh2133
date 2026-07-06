@@ -1,225 +1,199 @@
-# Hi 👋, I'm Neelesh
+<h1 align="center">Hi 👋, I'm Neelesh Krishna</h1>
 
-<div align="center">
+<h3 align="center">
+AI & Machine Learning Engineer
+</h3>
 
-### 🚀 AI/ML Engineer | LLM Developer | FastAPI Enthusiast
+<p align="center">
 
-Building AI products that solve real-world problems with **LLMs, Machine Learning, FastAPI, and Multi-Agent Systems**.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+Real-World+AI+Applications;FastAPI+%7C+Python+%7C+LLMs;Computer+Vision+%7C+NLP;MLOps+%7C+LLMOps+Learner;Always+Learning+Something+New+🚀" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Building+Real+World+LLM+Applications;FastAPI+%7C+Python+%7C+PostgreSQL;Always+Learning+Something+New" />
+</p>
 
-</div>
+<p align="center">
+
+<a href="https://github.com/Neelesh2133">
+<img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+</p>
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science (AI & ML)
+
+🏫 REVA University
+
+💡 Passionate about
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Large Language Models
+- Backend Development
+
+Currently learning
+
+- MLOps
+- LLMOps
+- AI Agents
+- Production ML Systems
 
 ---
 
-# 💫 About Me
-
-🎓 Final Year AI & Machine Learning Student
-
-💻 Passionate about solving real-world problems using AI
-
-🤖 Currently focused on
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI Agents & Multi-Agent Systems
-* Machine Learning
-* Deep Learning
-* FastAPI Backend Development
-* MLOps & LLMOps
-
-🎯 Goal
-
-To build AI systems that are practical, scalable, and genuinely useful for people—not just demo projects.
-
----
-
-# 🚀 Current Projects
-
-## 📚 Repo Explainer AI
-
-An LLM-powered application that helps beginners understand any GitHub repository.
-
-### Features
-
-* Reads an entire GitHub repository
-* Explains project workflow
-* Visualizes pipelines
-* Explains folder structure
-* Simplifies complex code
-* Generates architecture summaries
-* Explains functions and classes
-* Beginner-friendly documentation
-
----
-
-## 🤖 AutoCrew — Multi-Agent Research & Automation System
-
-An autonomous AI system where multiple agents collaborate together.
-
-### Agents
-
-* Planner
-* Researcher
-* Critic
-* Writer
-
-### Tech
-
-* LangGraph
-* CrewAI
-* FastAPI
-* Redis
-* LLM APIs
-
----
-
-## 🎓 EduTailor AI
-
-Personalized AI learning platform.
-
-### Features
-
-* Student performance prediction
-* Adaptive learning paths
-* ML-based recommendations
-* AI Roadmap Generator
-* Personalized course suggestions
-* Gemini-powered educational assistant
-
----
-
-# 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,sql,html,css"/>
+</p>
 
----
+### AI & Machine Learning
 
-### AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
-* Scikit-Learn
-* TensorFlow
-* XGBoost
-* Pandas
-* NumPy
-* Matplotlib
-
----
-
-### LLM
-
-* Gemini
-* Ollama
-* LangChain
-* RAG
-* Prompt Engineering
+- Scikit-Learn
+- XGBoost
+- NumPy
+- Pandas
+- Matplotlib
+- NLTK
 
 ---
 
 ### Backend
 
-* FastAPI
-* PostgreSQL
-* SQLAlchemy
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+</p>
+
+- REST APIs
+- SQLAlchemy
 
 ---
 
-### DevOps
+### Databases
 
-* Git
-* GitHub
-* Docker (Learning)
-* Redis
-
----
-
-### Currently Learning
-
-* LangGraph
-* CrewAI
-* MLOps
-* LLMOps
-* Vector Databases
-* AI Agent Workflows
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### Cloud & DevOps
 
-<p align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+Also experienced with
 
+- MLflow
+- DVC
+- SageMaker
+
+---
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
 ---
 
-# 📊 Activity Graph
+## 💼 Featured Projects
+
+### 🎓 EduTailor AI
+
+An AI-powered personalized learning platform that combines Machine Learning with LLMs to generate adaptive learning paths.
+
+**Highlights**
+
+- Personalized recommendations
+- Ensemble Machine Learning
+- FastAPI Backend
+- ChromaDB Integration
+- Docker Deployment
+
+---
+
+### 🩻 UrDoc
+
+Medical X-Ray Classification System using Deep Learning.
+
+Features
+
+- Transfer Learning
+- MobileNetV2
+- FastAPI
+- Grad-CAM Visualizations
+- Patient History Tracking
+
+---
+
+### 📧 SpamShield AI
+
+Email Spam Detection System built using NLP.
+
+Highlights
+
+- TF-IDF Vectorization
+- Linear SVM
+- Logistic Regression
+- Random Forest
+- Interactive Streamlit Dashboard
+
+---
+
+## 📚 Currently Exploring
+
+- Agentic AI
+- LangGraph
+- CrewAI
+- RAG Applications
+- Vector Databases
+- AI System Design
+- ML Deployment
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready AI applications
+- Master FastAPI
+- Learn advanced MLOps
+- Build LLM-based developer tools
+- Contribute to Open Source
+- Publish high-quality AI projects
+
+---
+
+## 📫 Connect
+
+📧 Email:
+neelesh.cr.01@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/neelesh-krisna-cr
+
+🐙 GitHub
+
+https://github.com/Neelesh2133
+
+---
+
+<h3 align="center">
+Thanks for visiting my profile ⭐
+</h3>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
+Always learning • Always building • Always improving
 </p>
-
----
-
-# 🎯 2026 Goals
-
-* Build production-ready AI applications
-* Master FastAPI
-* Learn MLOps & LLMOps
-* Develop Multi-Agent AI Systems
-* Contribute to Open Source
-* Publish AI projects that solve real-world problems
-
----
-
-# 💡 Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI
-* LLM Applications
-* Agentic AI
-* Backend Engineering
-* Open Source
-
----
-
-# 📫 Connect With Me
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: YOUR_LINKEDIN
-
-Portfolio: Coming Soon 🚀
-
-Email: YOUR_EMAIL
-
----
-
-<div align="center">
-
-## ⭐ "Building AI that people can actually use."
-
-Thanks for visiting my profile!
-
-If you like my projects, consider giving them a ⭐.
-
-</div>

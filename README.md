@@ -93,11 +93,6 @@ Also experienced with
 
 ---
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
 
 ---
 

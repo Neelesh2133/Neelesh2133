@@ -62,8 +62,7 @@ Currently learning
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 </p>
-
-- REST APIs
+- Fast APIs
 - SQLAlchemy
 
 ---

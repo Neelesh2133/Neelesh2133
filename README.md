@@ -50,7 +50,6 @@ Currently learning
 </p>
 
 - Scikit-Learn
-- XGBoost
 - NumPy
 - Pandas
 - Matplotlib

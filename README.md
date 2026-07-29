@@ -148,7 +148,7 @@ Always building. Check out my [pinned repositories](https://github.com/Neelesh21
 
 ### 🤝 Leadership & Extracurricular
 
-- 🌐 **IoT Club Member, Yantra** — REVA University, Bengaluru *(Sep 2024 – Mar 2026)*
+- 🌐 **IoT Club Member, Yantra** — REVA University, Bengaluru *(Oct 2024 – Mar 2026)*
   Led hands-on embedded systems and AI projects, bridging IoT and machine learning across club initiatives.
 
 ---

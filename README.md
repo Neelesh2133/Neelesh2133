@@ -40,7 +40,7 @@ Currently learning
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,sql,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css"/>
 </p>
 
 ### AI & Machine Learning

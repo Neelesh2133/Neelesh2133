@@ -55,27 +55,6 @@ interests:
 
 ---
 
-### 🌱 Current Focus
-
-```text
-✅ LLM Engineering
-████████████████████ 100%
-
-✅ Deep Learning
-██████████████████░░ 90%
-
-✅ MLOps
-████████████████░░░░ 80%
-
-✅ Computer Vision
-███████████████░░░░░ 75%
-
-✅ AWS Cloud
-████████████░░░░░░░░ 60%
-```
-
----
-
 ### 📫 Connect
 
 📧 **neelesh.cr.01@gmail.com**

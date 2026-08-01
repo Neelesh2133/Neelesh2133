@@ -16,25 +16,79 @@
 
 ---
 
-### 🧠 About Me
+## 💫 About Me
 
 ```yaml
 name: Neelesh Krisna C R
 role: AI/ML Engineer
-education: "B.Tech CSE (AI & ML) — REVA University, Bengaluru (2023 – 2027)"
-cgpa: 8.0 / 10
-location: "Bengaluru, India"
-focus: ["Machine Learning", "Deep Learning", "NLP", "LLM-powered Applications", "MLOps"]
-currently_exploring: "Taking research-grade ML models to production"
+education:
+  degree: B.Tech CSE (AI & ML)
+  university: REVA University
+  duration: 2023 - 2027
+location: Bengaluru, India 🇮🇳
+
+currently:
+  - Building Production-Ready LLM Applications
+  - Learning Advanced MLOps
+  - Exploring Agentic AI & RAG Systems
+
+interests:
+  - Machine Learning
+  - Deep Learning
+  - NLP
+  - Computer Vision
+  - Medical Imaging
+  - LLM Engineering
 ```
 
-- 🔭 Currently building **LLM-powered, production-ready ML systems**
-- 🌱 Deepening skills in **MLOps** — DVC, MLflow, Docker, AWS SageMaker
-- 💡 Interests: **Recommendation Systems · Medical Imaging · NLP · LLM Applications**
-- 📫 Reach me at **neelesh.cr.01@gmail.com**
-- ⚡ Fun fact: I enjoy turning research notebooks into real, deployable APIs
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Engineer;Building+Production+Ready+LLM+Applications;NLP+%7C+Deep+Learning+%7C+Computer+Vision;Learning+MLOps+%7C+AWS+%7C+Docker;Turning+Research+into+Real+Products" />
+</p>
+
+### 🚀 What I'm Working On
+
+- 🤖 Building **LLM-powered Production Systems**
+- 📚 Learning **MLOps • Docker • MLflow • AWS SageMaker • DVC**
+- 🧠 Exploring **Agentic AI, RAG, MCP, AI Agents**
+- 🔬 Interested in **Medical Imaging, NLP & Recommendation Systems**
+- ⚡ Converting research notebooks into scalable APIs
 
 ---
+
+### 📊 Live GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&row=1)
+
+---
+
+### 🌱 Current Focus
+
+```text
+✅ LLM Engineering
+████████████████████ 100%
+
+✅ Deep Learning
+██████████████████░░ 90%
+
+✅ MLOps
+████████████████░░░░ 80%
+
+✅ Computer Vision
+███████████████░░░░░ 75%
+
+✅ AWS Cloud
+████████████░░░░░░░░ 60%
+```
+
+---
+
+### 📫 Connect
+
+📧 **neelesh.cr.01@gmail.com**
+
+💡 *"Turning research ideas into production-ready AI systems."*
 
 ### 🛠️ Tech Stack
 

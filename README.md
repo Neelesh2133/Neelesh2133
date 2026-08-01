@@ -55,14 +55,6 @@ interests:
 
 ---
 
-### 📊 Live GitHub Stats
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&row=1)
-
----
-
 ### 🌱 Current Focus
 
 ```text

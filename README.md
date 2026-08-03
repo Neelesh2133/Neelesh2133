@@ -25,7 +25,7 @@ education:
   degree: B.Tech CSE (AI & ML)
   university: REVA University
   duration: 2023 - 2027
-location: Bengaluru, India 🇮🇳
+location: Bengaluru, India 
 
 currently:
   - Building Production-Ready LLM Applications

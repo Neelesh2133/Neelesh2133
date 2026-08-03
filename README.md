@@ -19,7 +19,7 @@
 ## 💫 About Me
 
 ```yaml
-name: Neelesh Krisna CR
+name: Neelesh Krisna C R
 role: AI/ML Engineer
 education:
   degree: B.Tech CSE (AI & ML)

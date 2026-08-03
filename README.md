@@ -16,7 +16,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About M
 
 ```yaml
 name: Neelesh Krisna C R

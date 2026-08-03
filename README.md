@@ -30,7 +30,7 @@ location: Bengaluru, India
 currently:
   - Building Production-Ready LLM Applications
   - Learning Advanced MLOps
-  - Exploring Agentic AI & RAG System
+  - Exploring Agentic AI & RAG Systems
 
 interests:
   - Machine Learning

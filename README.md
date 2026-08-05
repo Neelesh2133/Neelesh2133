@@ -181,25 +181,18 @@ Always building. Check out my [pinned repositories](https://github.com/Neelesh21
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neelesh2133&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Neelesh2133&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neelesh2133&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Neelesh2133&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh2133&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neelesh2133&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neelesh2133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelesh2133&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelesh2133&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 ### 📬 Let's Connect
 
 <a href="https://www.linkedin.com/in/neelesh-krisna-cr">

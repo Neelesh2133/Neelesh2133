@@ -186,7 +186,7 @@ Always building. Check out my [pinned repositories](https://github.com/Neelesh21
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neelesh2133&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh2133&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -196,39 +196,41 @@ Always building. Check out my [pinned repositories](https://github.com/Neelesh21
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neelesh2133/Neelesh2133/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Neelesh2133/Neelesh2133/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ### 📬 Let's Connect
 
+<p align="center">
+
 <a href="https://www.linkedin.com/in/neelesh-krisna-cr">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:neelesh.cr.01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Neelesh2133">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Neelesh2133?style=for-the-badge&label=Follow&logo=github"/>
 </a>
 
-<br/><br/>
-
-*"Taking models from research to production, one deployment at a time."* 🚀
-
-</div>
-
----
+</p>
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b><br><br>
+<i>🚀 Taking models from research to production, one deployment at a time.</i>
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<p align="center">
 
-  <br><br>
+⭐ <b>Thanks for visiting my profile!</b> ⭐
 
-  <i>"Code. Learn. Build. Repeat."</i>
+<br><br>
 
-  <br><br>
+<img src="https://komarev.com/ghpvc/?username=Neelesh2133&style=for-the-badge&color=blueviolet"/>
 
-  ⭐ Don't forget to star repositories you like!
+<br><br>
+
+<i>"Code. Learn. Build. Repeat."</i>
+
 </p>

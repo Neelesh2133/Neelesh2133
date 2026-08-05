@@ -193,6 +193,12 @@ Always building. Check out my [pinned repositories](https://github.com/Neelesh21
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelesh2133&theme=tokyo-night&hide_border=true"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neelesh2133/Neelesh2133/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ### 📬 Let's Connect
 
 <a href="https://www.linkedin.com/in/neelesh-krisna-cr">
@@ -210,3 +216,19 @@ Always building. Check out my [pinned repositories](https://github.com/Neelesh21
 *"Taking models from research to production, one deployment at a time."* 🚀
 
 </div>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! ⭐</b><br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+  <br><br>
+
+  <i>"Code. Learn. Build. Repeat."</i>
+
+  <br><br>
+
+  ⭐ Don't forget to star repositories you like!
+</p>

@@ -1,30 +1,37 @@
 <div align="center">
 
-<!-- Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelesh+Krisna+C+R;AI%2FML+Engineer;Building+ML+%2B+LLM+Powered+Systems;Research+%E2%86%92+Production+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelesh+Krisna+C+R;AI%2FML+Engineer;Building+ML+%2B+LLM+Powered+Systems;Research+%E2%86%92+Production+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Quick Badges -->
-<a href="https://www.linkedin.com/in/neelesh-krisna-cr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:neelesh.cr.01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/Neelesh2133"><img src="https://img.shields.io/github/followers/Neelesh2133?label=Followers&style=flat-square&color=7AA2F7" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/neelesh-krisna-cr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:neelesh.cr.01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Neelesh2133"><img src="https://img.shields.io/github/followers/Neelesh2133?label=Followers&style=flat&color=6C63FF" alt="Followers"/></a>
 
 </div>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-I am an **AI/ML Engineer** pursuing my B.Tech in CSE (AI & ML) at **REVA University, Bengaluru** (2023–2027). I specialize in bridging the gap between research and production by building scalable ML pipelines and LLM-powered systems.
+```yaml
+name: Neelesh Krisna C R
+role: AI/ML Engineer
+education: B.Tech CSE (AI & ML), REVA University · 2023 – 2027
+location: Bengaluru, India
+```
 
-* 🚀 **Currently Focus:** Building Production-Ready LLM Applications & Agentic Workflows.
-* 📚 **Learning:** Advanced MLOps, System Architecture, and Autonomous Agents.
-* 🔬 **Interests:** LLM Engineering, NLP, Deep Learning, & Medical Imaging.
-* 💡 *"Turning research ideas into production-ready AI systems."*
+I build ML + LLM-powered systems, with a focus on carrying research ideas the rest of the way into production — across NLP, computer vision, medical imaging, and recommendation systems.
+
+**Currently:**
+- 🤖 Building production-ready LLM applications — RAG, agentic workflows, MCP
+- 📦 Leveling up MLOps — Docker, MLflow, DVC, AWS SageMaker
+- ⚡ Turning research notebooks into scalable, deployable APIs
+
+📫 **neelesh.cr.01@gmail.com**
 
 ---
 
@@ -32,12 +39,39 @@ I am an **AI/ML Engineer** pursuing my B.Tech in CSE (AI & ML) at **REVA Univers
 
 <div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>` `<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>` `<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>` `<img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white"/>` |
-| **AI / ML / DL** | `<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>` `<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>` `<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>` `<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>` `<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>` |
-| **Cloud & MLOps** | `<img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>` `<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>` `<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>` `<img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white"/>` |
-| **Frameworks & Tools** | `<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>` `<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>` `<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>` `<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>` `<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>` |
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+**AI / ML / DL**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+**Cloud & Deployment**
+<br/>
+<img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
+
+**Frameworks & Tools**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
@@ -50,13 +84,12 @@ I am an **AI/ML Engineer** pursuing my B.Tech in CSE (AI & ML) at **REVA Univers
 <td width="50%" valign="top">
 
 #### 🎓 [EduTailor](https://github.com/Neelesh2133)
-**LLM & ML-Based Personalized Learning Path Generator**
+**LLM & ML Based Personalized Learning Path Generator**
 *Mar – May 2026*
 
-* Built a recommendation platform using a **stacking ensemble** (Random Forest, Gradient Boosting, XGBoost) achieving **92% accuracy / 0.96 ROC-AUC**.
-* Integrated LLM-powered roadmaps with ChromaDB + Sentence Transformers, reducing latency from **2.5s → 1.3s**.
+Personalized learning recommendation platform using a **stacking ensemble** (Random Forest, Gradient Boosting, XGBoost) — **92% accuracy · 0.89 F1 · 0.96 ROC-AUC**. LLM-powered roadmap generation optimized with ChromaDB + Sentence Transformers, cutting response latency from **2.5s → 1.3s**.
 
-`Python` `FastAPI` `React` `XGBoost` `ChromaDB` `Llama-3` `MLflow` `Docker`
+`Python` `FastAPI` `React` `XGBoost` `ChromaDB` `Llama-3/Gemini Flash` `MLflow` `DVC` `Docker`
 
 </td>
 <td width="50%" valign="top">
@@ -65,10 +98,9 @@ I am an **AI/ML Engineer** pursuing my B.Tech in CSE (AI & ML) at **REVA Univers
 **Deep Learning-Based X-Ray Classification System**
 *Feb – May 2026*
 
-* Developed a medical web app classifying bone X-rays using fine-tuned **MobileNetV2** with calibrated-confidence inference in **<1 second** (**~98.4% TPR**).
-* Built a FastAPI backend supporting Grad-CAM visualizations and scan history tracking.
+Full-stack medical web app classifying bone X-rays with a fine-tuned **MobileNetV2** (transfer learning) — calibrated-confidence predictions in **<1 second** with **~98.4% true positive rate**. FastAPI backend with Grad-CAM visualizations and patient scan history tracking.
 
-`Python` `PyTorch` `MobileNetV2` `FastAPI` `Next.js` `React` `Firebase`
+`Python` `PyTorch` `MobileNetV2` `FastAPI` `Next.js 16` `React 19` `Tailwind CSS` `Firebase`
 
 </td>
 </tr>
@@ -76,19 +108,19 @@ I am an **AI/ML Engineer** pursuing my B.Tech in CSE (AI & ML) at **REVA Univers
 <td width="50%" valign="top">
 
 #### 🔍 [CodeSage](https://github.com/Neelesh2133)
-**AI-Powered Automated Code Review Tool**
+**AI-Powered Code Review Tool**
 *June – July 2026*
 
-* Created an automated code review engine analyzing pull requests via LLMs, returning severity-ranked findings over JWT-authenticated REST APIs.
-* Engineered resilient LLM logic featuring diff chunking, dynamic JSON retries, and partial-failure handling.
+Full-stack code review platform analyzing pasted code or GitHub PRs via LLM, returning severity-ranked, categorized findings (security, bug, performance, style) through a JWT-authenticated REST API — **19/19 automated tests passing**. Resilient LLM integration layer with diff chunking, JSON retry logic, and graceful partial-failure handling.
 
-`Python` `FastAPI` `PostgreSQL` `React` `Docker` `NVIDIA Nemotron`
+`Python` `FastAPI` `PostgreSQL` `React` `Docker` `NVIDIA Nemotron 3 Ultra`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📌 More Projects
-Check out my [pinned repositories](https://github.com/Neelesh2133?tab=repositories) for ongoing open-source projects in agentic workflows, RAG systems, and medical ML.
+#### 📌 More on the way...
+
+Always building. Check out my [pinned repositories](https://github.com/Neelesh2133?tab=repositories) for the latest work in ML, deep learning, and LLM applications.
 
 </td>
 </tr>
@@ -96,42 +128,236 @@ Check out my [pinned repositories](https://github.com/Neelesh2133?tab=repositori
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education
 
-* **B.Tech in CSE (AI & ML)** | REVA University, Bengaluru *(Sep 2023 – Expected 2027)* — **CGPA:** 8.0 / 10
-* 🏆 **MLOps Zero to Hero** — Udemy *(Mar 2026)* — Covered DVC, MLflow, Docker, & AWS SageMaker.
-* 🏆 **Introduction to Python Programming** — Simplilearn *(Sep 2025)*
+| Institution | Degree | Duration | CGPA |
+|---|---|---|---|
+| **REVA University**, Bengaluru | B.Tech, Computer Science Engineering (AI & ML) | Sep 2023 – Expected 2027 | 8.0 / 10 |
 
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neelesh2133&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
-  <img src="https://streak-stats.demolab.com?user=Neelesh2133&theme=tokyonight&hide_border=true" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh2133&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-**Contribution Graph**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Neelesh2133/Neelesh2133/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
+**Relevant Coursework:** Machine Learning · Deep Learning · Computer Vision · NLP · LLMs
 
 ---
 
-### 📫 Connect With Me
+### 📜 Certifications
+
+- 🏆 **MLOps Zero to Hero** — Udemy *(Mar 2026)* — End-to-end ML lifecycle: DVC, MLflow, Docker, AWS SageMaker
+- 🏆 **Introduction to Python Programming** — Simplilearn *(Sep 2025)* — Data types, control flow, functions, data structures, file handling
+
+---
+
+### 🤝 Leadership & Extracurricular
+
+- 🌐 **IoT Club Member, Yantra** — REVA University, Bengaluru *(Oct 2024 – Mar 2026)*
+  Led hands-on embedded systems and AI projects, bridging IoT and machine learning across club initiatives.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/neelesh-krisna-cr">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:neelesh.cr.01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Neelesh2133">
-    <img src="https://img.shields.io/github/followers/Neelesh2133?style=for-the-badge&label=Follow&logo=github"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neelesh2133&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Neelesh2133&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh2133&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelesh2133&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Neelesh2133/Neelesh2133/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+<br/><br/>
+⭐ Thanks for stopping by!
+</p><div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelesh+Krisna+C+R;AI%2FML+Engineer;Building+ML+%2B+LLM+Powered+Systems;Research+%E2%86%92+Production+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Neelesh2133&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/neelesh-krisna-cr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:neelesh.cr.01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Neelesh2133"><img src="https://img.shields.io/github/followers/Neelesh2133?label=Followers&style=flat&color=6C63FF" alt="Followers"/></a>
+
+</div>
+
+---
+
+## 💫 About Me
+
+```yaml
+name: Neelesh Krisna C R
+role: AI/ML Engineer
+education: B.Tech CSE (AI & ML), REVA University · 2023 – 2027
+location: Bengaluru, India
+```
+
+I build ML + LLM-powered systems, with a focus on carrying research ideas the rest of the way into production — across NLP, computer vision, medical imaging, and recommendation systems.
+
+**Currently:**
+- 🤖 Building production-ready LLM applications — RAG, agentic workflows, MCP
+- 📦 Leveling up MLOps — Docker, MLflow, DVC, AWS SageMaker
+- ⚡ Turning research notebooks into scalable, deployable APIs
+
+📫 **neelesh.cr.01@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+**AI / ML / DL**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+**Cloud & Deployment**
+<br/>
+<img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
+
+**Frameworks & Tools**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 [EduTailor](https://github.com/Neelesh2133)
+**LLM & ML Based Personalized Learning Path Generator**
+*Mar – May 2026*
+
+Personalized learning recommendation platform using a **stacking ensemble** (Random Forest, Gradient Boosting, XGBoost) — **92% accuracy · 0.89 F1 · 0.96 ROC-AUC**. LLM-powered roadmap generation optimized with ChromaDB + Sentence Transformers, cutting response latency from **2.5s → 1.3s**.
+
+`Python` `FastAPI` `React` `XGBoost` `ChromaDB` `Llama-3/Gemini Flash` `MLflow` `DVC` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🩻 [UrDoc](https://github.com/Neelesh2133)
+**Deep Learning-Based X-Ray Classification System**
+*Feb – May 2026*
+
+Full-stack medical web app classifying bone X-rays with a fine-tuned **MobileNetV2** (transfer learning) — calibrated-confidence predictions in **<1 second** with **~98.4% true positive rate**. FastAPI backend with Grad-CAM visualizations and patient scan history tracking.
+
+`Python` `PyTorch` `MobileNetV2` `FastAPI` `Next.js 16` `React 19` `Tailwind CSS` `Firebase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 [CodeSage](https://github.com/Neelesh2133)
+**AI-Powered Code Review Tool**
+*June – July 2026*
+
+Full-stack code review platform analyzing pasted code or GitHub PRs via LLM, returning severity-ranked, categorized findings (security, bug, performance, style) through a JWT-authenticated REST API — **19/19 automated tests passing**. Resilient LLM integration layer with diff chunking, JSON retry logic, and graceful partial-failure handling.
+
+`Python` `FastAPI` `PostgreSQL` `React` `Docker` `NVIDIA Nemotron 3 Ultra`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📌 More on the way...
+
+Always building. Check out my [pinned repositories](https://github.com/Neelesh2133?tab=repositories) for the latest work in ML, deep learning, and LLM applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 Education
+
+| Institution | Degree | Duration | CGPA |
+|---|---|---|---|
+| **REVA University**, Bengaluru | B.Tech, Computer Science Engineering (AI & ML) | Sep 2023 – Expected 2027 | 8.0 / 10 |
+
+**Relevant Coursework:** Machine Learning · Deep Learning · Computer Vision · NLP · LLMs
+
+---
+
+### 📜 Certifications
+
+- 🏆 **MLOps Zero to Hero** — Udemy *(Mar 2026)* — End-to-end ML lifecycle: DVC, MLflow, Docker, AWS SageMaker
+- 🏆 **Introduction to Python Programming** — Simplilearn *(Sep 2025)* — Data types, control flow, functions, data structures, file handling
+
+---
+
+### 🤝 Leadership & Extracurricular
+
+- 🌐 **IoT Club Member, Yantra** — REVA University, Bengaluru *(Oct 2024 – Mar 2026)*
+  Led hands-on embedded systems and AI projects, bridging IoT and machine learning across club initiatives.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neelesh2133&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Neelesh2133&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh2133&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelesh2133&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Neelesh2133/Neelesh2133/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+<br/><br/>
+⭐ Thanks for stopping by!
 </p>
